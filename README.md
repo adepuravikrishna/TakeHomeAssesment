@@ -1,6 +1,6 @@
 # Flight Reservation
 
-This project allows you to reserve seats in flight. Rervations.txt will be generated when we initially run the program. We only need SeatReservation.java file to run test everything.
+This project allows you to reserve seats in flight. Rervations.txt will be generated when we initially run the program. We only need SeatReservation.java file to run test everything. For readability all other calsses, interfaces are included in same file.
 ## Installation
 Below is the output produced by the program
 ```sh
